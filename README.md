@@ -4,6 +4,9 @@
 Using historical data and other information, demand forecasting is the process of making estimations about future customer demand over a defined period.
 Usually organisations follow tranditional forecasting techniques/algorithms such as Auto Arima, Auto Arima, Sarima, Simple moving average and many more.
 
+![Screenshot (1952)](https://user-images.githubusercontent.com/92505473/187043431-d7d9d43d-ab10-4915-96a6-7127a35dab00.png)
+
+
 ## Contents
 
 - [Objective](#objective)
